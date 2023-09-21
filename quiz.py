@@ -40,4 +40,3 @@ num_list = []
 for i in range(5):
     k = 0
     imp_num = input("숫자를 입력하시오: ")
-    k 
