@@ -144,3 +144,12 @@ print(qlist)
 
 enqueue (qlist,3)
 print(qlist)   
+
+dequeue(qlist)
+print(qlist)
+
+dequeue(qlist)
+print(qlist)
+
+dequeue(qlist)
+print(qlist)
