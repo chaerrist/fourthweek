@@ -1,7 +1,7 @@
 import math
 import random
 
-x = random.randrage()
+x = random.randint(1, 100)
 
 def sq_res(x):
     return math.sqrt(x)
